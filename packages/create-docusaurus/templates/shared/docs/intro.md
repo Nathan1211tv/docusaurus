@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Info
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Here's what you need to know**.
 
-## Getting Started
+## Know This
+DISCORD SERVER CODE: COming soon!!
+THIS WEB LINK WILL CHANGE EVERY WEEK JUST TO GET AROUND THE BLOCKNESS
+WE ONLY SUPPORT PROXIES AND GAMES HERE
+DO NOT REPORT THAT THE LINK IS BLOCKED
 
-Get started by **creating a new site**.
+**DISCORD RULES**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+WELCOME
 
-### What you'll need
+Rules
+The following rules are for this server if you decide to not follow them quick action will be taken by our staff if you continue to not follow them actions like warns, kicks, and bans will take place.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+ToS — 
+Guidelines — 
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Be respectful, civil, and welcoming.
+- Being racist, sexist, homophobic in any way is not allowed, you will get a instant ban.
+- Do not spam or send a lot of messages in a short amount of time. This can also be spamming tickets, sending the same message over and over in chats, etc.
+- Do not post any content that is NSFW under any circumstances and this is not a dating server!
+- All content and messages on this server are to be in English, with the exception of common words or phrases at staff discretion.
+- Discord names, banners, custom emojis, statuses, and avatars must be appropriate.
+- Please refrain from trolling. No one wants it.
+- Be cautious when introducing conversations regarding controversial or sensitive topics.
+- Do not attempt to bypass any blocked words.
+- Do not mass mention by pinging more than 4 people at once, or randomly ping members without legitimate reasoning behind it
+- Do not advertise without permission, do not DDoS or threaten to DDoS other users.
+- Remain on topic and use channels correctly.
+- Do not send links to any scam websites.
+- Listen to the staff's requests and decisions, they are final. If you ever have a problem with a decision, you can always bring it up with nathanjs
+- Leaking any kind of personal information of others is prohibited.
+- Coordinating or participating in a server raid is forbidden.
+Just because something is not on this list doesn’t mean you have the right to do it and not get in trouble! Please use some common sense!
